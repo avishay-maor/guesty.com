@@ -1,0 +1,23 @@
+{
+  "name": "guesty.com_server-side",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avishay-maor/guesty.com.git"
+  },
+  "author": "Avishay Maor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avishay-maor/guesty.com/issues"
+  },
+  "homepage": "https://github.com/avishay-maor/guesty.com#readme",
+  "dependencies": {
+    "json2csv": "^3.7.3",
+    "twit": "^2.2.5"
+  }
+}
